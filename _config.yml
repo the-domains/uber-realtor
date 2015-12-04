@@ -1,0 +1,28 @@
+name: Uber.Realtor
+favicon: null
+layout_spectrum: 0.6535852397792041
+typography_spectrum: 0.10006737150251865
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7090653462801129
+  lightness: 0.6935006279964
+  saturation: 0.4629819768015295
+  rhythmicContrast: 0.9878742198925465
+purpose: []
